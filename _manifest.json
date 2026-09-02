@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-02T16:10:28.562Z",
+  "timestamp": "2026-09-02T16:13:48.411Z",
   "publicUrl": "",
   "microfrontends": {
     "@linm/rmms-gis": {
-      "url": "/rmms-gis/1.2.0-dev.9/linm-rmms-gis.61ac7e6e.js",
+      "url": "/rmms-gis/1.6.0/linm-rmms-gis.61ac7e6e.js",
       "filename": "linm-rmms-gis.61ac7e6e.js",
-      "version": "1.2.0-dev.9",
-      "timebuild": "2026-09-02T16:10:28.579Z",
+      "version": "1.6.0",
+      "timebuild": "2026-09-02T16:13:48.427Z",
       "routes": [
         "gis"
       ]
