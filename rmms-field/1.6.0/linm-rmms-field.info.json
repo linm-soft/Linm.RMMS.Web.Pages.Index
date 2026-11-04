@@ -1,0 +1,12 @@
+{
+  "version": "1.6.0",
+  "timebuild": "2026-11-04T18:19:42.037Z",
+  "routes": [
+    "td-tk",
+    "td-tk/bc-th",
+    "td-tk/cham-cong",
+    "su-co",
+    "sc-bt",
+    "chi-dao"
+  ]
+}

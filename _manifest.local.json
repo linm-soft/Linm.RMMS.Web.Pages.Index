@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T17:19:54.320Z",
+  "timestamp": "2026-11-04T18:19:42.037Z",
   "publicUrl": "",
   "env": {},
   "microfrontends": {
@@ -14,13 +14,14 @@
       ]
     },
     "@linm/rmms-field": {
-      "url": "/rmms-field/1.5.0/linm-rmms-field.60402434.js",
-      "filename": "linm-rmms-field.60402434.js",
-      "version": "1.5.0",
-      "timebuild": "2026-11-04T17:19:54.322Z",
+      "url": "/rmms-field/1.6.0/linm-rmms-field.29fb72e9.js",
+      "filename": "linm-rmms-field.29fb72e9.js",
+      "version": "1.6.0",
+      "timebuild": "2026-11-04T18:19:42.038Z",
       "env": {},
       "routes": [
         "td-tk",
+        "td-tk/bc-th",
         "td-tk/cham-cong",
         "su-co",
         "sc-bt",
