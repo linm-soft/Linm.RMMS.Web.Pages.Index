@@ -1,14 +1,30 @@
 {
-  "timestamp": "2026-09-02T16:13:48.411Z",
+  "timestamp": "2026-11-04T17:11:49.154Z",
   "publicUrl": "",
+  "env": {},
   "microfrontends": {
     "@linm/rmms-gis": {
       "url": "/rmms-gis/1.6.0/linm-rmms-gis.61ac7e6e.js",
       "filename": "linm-rmms-gis.61ac7e6e.js",
       "version": "1.6.0",
-      "timebuild": "2026-09-02T16:13:48.427Z",
+      "timebuild": "2026-09-02T16:13:48.411Z",
+      "env": {},
       "routes": [
         "gis"
+      ]
+    },
+    "@linm/rmms-field": {
+      "url": "/rmms-field/1.4.0/linm-rmms-field.2cd503f9.js",
+      "filename": "linm-rmms-field.2cd503f9.js",
+      "version": "1.4.0",
+      "timebuild": "2026-11-04T17:11:49.156Z",
+      "env": {},
+      "routes": [
+        "td-tk",
+        "td-tk/cham-cong",
+        "su-co",
+        "sc-bt",
+        "chi-dao"
       ]
     }
   }
